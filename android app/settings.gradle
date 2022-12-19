@@ -1,0 +1,2 @@
+include ':nativetemplates'
+include ':app',':SmoothCheckBox-master', ':rating-view'

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "884879155188",
+    "project_id": "pridebnb-912c0",
+    "storage_bucket": "pridebnb-912c0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:884879155188:android:cd5fc3b539fd52b3eda3a1",
+        "android_client_info": {
+          "package_name": "com.pride.BnB"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "884879155188-16rva972jd2jd4ouddjutf83dqkaep78.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pride.BnB",
+            "certificate_hash": "77e9df18387ec61a128327e068f3a3f16e034a04"
+          }
+        },
+        {
+          "client_id": "884879155188-3jqtbgst5kit07tf8ael7pblga3ml4sj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAW8R6xD87pKGmk_NeCE3wEtmi307JwdXg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "884879155188-3jqtbgst5kit07tf8ael7pblga3ml4sj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

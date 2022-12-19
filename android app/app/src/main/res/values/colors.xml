@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <color name="colorPrimary">#F549F2</color>
+    <color name="colorPrimaryDark">#2344ee</color>
+    <color name="colorAccent">#F549F2</color>
+
+    <color name="gradient_start">#EA7DBF</color>
+    <color name="gradient_end">#F118B4</color>
+
+    <color name="bg">#FFFFFF</color>
+    <color name="white">#FFFFFF</color>
+    <color name="drawer_bg">#FFFFFF</color>
+    <color name="black">#424242</color>
+    <color name="gray">#878787</color>
+    <color name="search_bg">#FFFFFF</color>
+    <color name="line_detail">#D6D6D6</color>
+    <color name="green">#1FBDC0</color>
+    <color name="review_bg">#ffffff</color>
+    <color name="orange">#FF9600</color>
+    <color name="cat_bg">#2344ee</color>
+    <color name="login_line">#A4A6A3</color>
+    <color name="white_light">#E4E6E5</color>
+    <color name="image_full_bg">#000000</color>
+    <color name="button_google_line_login">#EA4235</color>
+    <color name="button_fb_line_login">#3B5999</color>
+
+    <color name="navigation_default">#6A6A6A</color>
+    <color name="navigation_checked">#1FBDC0</color>
+
+    <color name="review_list_bg_1">#E5E5E5</color>
+    <color name="review_list_bg_2">#F2F2F2</color>
+
+    <color name="more_btn">#1FBDC0</color>
+    <color name="rate_btn_bg">#1FBDC0</color>
+    <color name="cat_bg_1">#1FBDC0</color>
+
+    <color name="dialog_color">#1FBDC0</color>
+    <color name="dialog_text">#353535</color>
+    <color name="dialog_white_text">#FFFFFF</color>
+
+    <color name="about_title">#575757</color>
+    <color name="about_text">#8b8b8b</color>
+
+    <color name="switch_activated">#1FBDC0</color>
+    <color name="switch_normal">#888D9F</color>
+
+    <color name="textView_editPro">#FF929292</color>
+    <color name="textView_hint_editPro">#FF929292</color>
+    <color name="textView_hint_layout_editPro">#1FBDC0</color>
+    <color name="textView_box_color">#FF929292</color>
+    <color name="textView_box_select_color">#1FBDC0</color>
+    <color name="view_profile">#CDCDCD</color>
+    <color name="mtrl_textinput_default_box_stroke_color" tools:override="true">
+        @color/textView_box_color
+    </color>
+
+    <color name="cursor_editText">#1FBDC0</color>
+    <color name="textView_select_text">#1FBDC0</color>
+</resources>
